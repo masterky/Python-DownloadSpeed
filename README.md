@@ -1,4 +1,4 @@
-Python-InternetSpeed
+Python-Downloadrate
 ====================
 
-Measure Internet Speed in KB/s - Written in Python
+Measures Download Speed in KB/s - Written in Python
